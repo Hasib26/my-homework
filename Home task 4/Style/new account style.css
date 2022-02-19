@@ -1,0 +1,41 @@
+
+
+form,label,input,button
+
+	 {
+	 	position: relative;
+
+		width: 390px;
+		height: 25px;
+	}
+
+
+div{
+		background-color:rgb(168, 249, 253);
+			width: 450PX;
+	height: 300PX;
+
+	
+		border-radius: 20px;
+			padding-bottom: 350px;
+				margin-left: auto;
+		margin-right: auto;
+			margin-top: 10px;
+		margin-bottom: 10px;
+		
+
+	
+
+}
+
+
+
+	.button {
+					background-color: #88db03;
+			cursor: pointer;
+			height: 35px;
+
+		
+	}
+	
+

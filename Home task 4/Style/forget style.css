@@ -1,0 +1,36 @@
+
+
+form,label,input,button
+
+	 {
+
+		width: 380px;
+		height: 25px;
+	}
+
+
+	label{
+		color: skyblue;
+	}
+	div{
+		background-color:whitesmoke;
+		width: 430px;
+		
+		border: 1px blue;
+	border-radius: 20px;
+	padding-bottom: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	
+
+	}
+
+	.utf{
+		text-decoration: none;
+	}
+
+
+
+	
